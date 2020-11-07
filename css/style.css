@@ -1,0 +1,40 @@
+.colorBoton {
+
+    color: gold;
+    border-bottom-color: black;
+}
+
+colorNav {
+
+    color: cornsilk;
+}
+
+.TamanoCarusel {
+
+    width: 60%;
+    margin: 0 auto;
+}
+
+p {
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+
+    font-family: fantasy;
+background-color: rgb(240, 223, 128);
+}
+
+h5 {
+
+    font-family: cursive;
+    color: rgb(21, 21, 65);
+
+}
+
+body{
+
+background-color: rgb(171, 219, 231);
+
+}
